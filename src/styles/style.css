@@ -1,0 +1,13 @@
+html{
+	background-color : white;
+}
+body{
+    display: block;
+    margin: 8px;
+	
+}
+
+canvas {
+    margin: 0 auto;
+    display: block;
+}
